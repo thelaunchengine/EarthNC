@@ -477,10 +477,10 @@
             "whalewatchingguidelines": "EN_Guidelines_BeWhaleWise",
             "notifications":[
             {"name": "Washington State Waters Marine Mammal Guidelines",
-        "desc":"<b>Welcome to Washington State!<\/b> We have special rules about boating and marine mammals. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\" style=\"border-bottom: 1px solid;text-decoration:none;font-weight:bold\">Know the laws<\/a> and <a href=\"https:\/\/www.bewhalewise.org\" target=\"_blank\" style=\"border-bottom: 1px solid;text-decoration:none;font-weight:bold\">Be Whale Wise<\/a>.",
+        "desc":"<b>Welcome to Washington State!<\/b> We have special rules about boating and marine mammals. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\">Know the laws<\/a> and <a href=\"https:\/\/www.bewhalewise.org\" target=\"_blank\">Be Whale Wise<\/a>.",
         "startDate":"2025-05-01 09:00:00","refresh":"30d"},
             {"name": "Recent Southern Resident Killer Whales Sightings!",
-        "desc":"<b>ALERT:<\/b> Southern Resident killer whales (SRKW) have been seen near your location. Boaters are required to stay 1,000 yards away from SRKW. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\" style=\"border-bottom: 1px solid;text-decoration:none;font-weight:bold\">Know the laws<\/a> and <a href=\"http:\/\/bewhalewise.org\" target=\"_blank\" style=\"border-bottom: 1px solid;text-decoration:none;font-weight:bold\">Be Whale Wise<\/a>.",
+        "desc":"<b>ALERT:<\/b> Southern Resident killer whales (SRKW) have been seen near your location. Boaters are required to stay 1,000 yards away from SRKW. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\">Know the laws<\/a> and <a href=\"http:\/\/bewhalewise.org\" target=\"_blank\">Be Whale Wise<\/a>.",
         "startDate":"2025-05-27 09:00:00","refresh":"24h"}
             ],
             "feeds": [
