@@ -477,10 +477,10 @@
             "whalewatchingguidelines": "EN_Guidelines_BeWhaleWise",
             "notifications":[
             {"name": "Washington State Waters Marine Mammal Guidelines",
-        "desc":"Welcome to Washtington State!  We have special rules about boating and marine mammals, ...",
+        "desc":"Welcome to Washington State! We have special rules about boating and marine mammals. &lt;a href=&quot;https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/orca&quot; target=&quot;_blank&quot;&gt;Know the laws&lt;/a&gt; and &lt;a href=&quot;https://www.bewhalewise.org&quot; target=&quot;_blank&quot;&gt;Be Whale Wise&lt;/a&gt;.",
         "startDate":"2025-05-01 09:00:00","refresh":"30d"},
-            {"name": "Recent Southern Resident Killer Whales in Washington State Waters!",
-        "desc":"Please be extra cautious when boating, ...",
+            {"name": "Recent Southern Resident Killer Whales Sightings!",
+        "desc":"ALERT: Southern Resident killer whales (SRKW) have been seen near your location. Boaters are required to stay 1,000 yards away from SRKW. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\">Know the laws<\/a> and <a href=\"http:\/\/bewhalewise.org\" target=\"_blank\">Be Whale Wise<\/a>.",
         "startDate":"2025-05-27 09:00:00","refresh":"24h"}
             ],
             "feeds": [
