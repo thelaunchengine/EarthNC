@@ -1,5 +1,42 @@
 [
   {
+    "id": "49999",
+    "type": "SMA",
+    "name": "voluntary alert zone 49999",
+    "desc": "",
+    "information": "<b>Southern Resident Killer Whale Voluntary Alert Zone<b><\/br>\n                      Please be vigilant - a confirmed sighting occurred in this area within the previous 6 hours.<br><br><b>In U.S. Waters Stay at Least 100 yards away from all Whales & Orcas<\/b><\/br><\/br><b>In State Waters:<\/b><ul><li>Stay at least 300 yards on either side.<\/li>\n                    <li>Stay 400 yards away in front of and behind the whales.<\/li>\n                    <li>Go slow (<7 knots) within 1\/2 mile of Southern Resident killer whales.<\/li>\n                    <li>Disengage engines if whales appear within 300 yards.<\/li>\n                    <\/ul><\/br><\/br><b>Recommended:<\/b><ul>\n                     <li>Stay at least 1000 yards from Southern Residents (will become law January 1, 2025<\/li>\n                     <li>Turn off fish finders and echosounders when it is safe to do so.<\/li>\n                     <li>Refrain from fishing, where possible within 1,000 yards, or a half mile, of whales.<\/li>\n                     <li>If kayaking, raft up.<\/li><\/ul><br><br><b>Regional Partners:<\/b><div><a href=\"https:\/\/acartia.io\">Acartia.io<\/a><br><a href=\"https:\/\/Orcanetwork.org\">Orca Network<\/a><br><a href=\"https:\/\/orcasound.net\">Orcasound<\/a><br><a href=\"https:\/\/thewhaletrail.org\">The Whale Trail<\/a><\/div><\/div><br><br><div>Powered By:<br> <a href=\"http:\/\/www.whalealert.org\">Whale Alert<\/a><br><a href=\"https:\/\/acartia.io\">Acartia.io<\/a><\/div>",
+    "fillColor": "FFCF7474",
+    "lineColor": "FFCC0000",
+    "startDate": "2025-06-20 09:10:10",
+    "endDate": "2025-07-27 15:10:10",
+    "alertzone" : 1,
+    "alertzone_startDate" : "2025-06-27 17:10:10",
+    "alertzone_endDate" : "2025-06-27 23:59:59",
+    "fade": 1,
+    "link": "",
+    "banner": "",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+          [
+            [-123.675, 48.24],
+            [-123.821, 48.264],
+            [-123.82, 48.401],
+            [-123.733, 48.401],
+            [-123.73, 48.658],
+            [-123.384, 48.658],
+            [-123.382, 48.467],
+            [-123.292, 48.467],
+            [-123.227, 48.422],
+            [-123.115, 48.423],
+            [-123.246, 48.284],
+            [-123.541, 48.224],
+            [-123.675, 48.24]
+          ]
+        ]
+    }
+  },
+  {
     "id": "50001",
     "type": "SMA",
     "name": "voluntary alert zone 50000",
@@ -240,9 +277,6 @@
     "startDate": "2025-06-20 09:10:10",
     "endDate": "2025-06-26 15:10:10",
     "fade": 1,
-    "alertzone" : 1,
-    "alertzone_startDate" : "2025-06-27 17:10:10",
-    "alertzone_endDate" : "2025-06-27 23:59:59",
     "link": "",
     "banner": "",
     "geometry": {
