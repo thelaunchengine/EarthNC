@@ -240,6 +240,9 @@
     "startDate": "2025-06-20 09:10:10",
     "endDate": "2025-06-26 15:10:10",
     "fade": 1,
+    "alertzone" : 1,
+    "alertzone_startDate" : "2025-06-27 17:10:10",
+    "alertzone_endDate" : "2025-06-27 23:59:59",
     "link": "",
     "banner": "",
     "geometry": {
