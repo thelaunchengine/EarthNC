@@ -969,7 +969,7 @@
         "startDate":"2025-05-01 09:00:00","refresh":"30d"},
             {"name": "Recent Southern Resident Killer Whales Sightings!",
         "desc":"<b>ALERT:<\/b> Southern Resident killer whales (SRKW) have been seen near your location. Boaters are required to stay 1,000 yards away from SRKW. <a href=\"https:\/\/wdfw.wa.gov\/species-habitats\/at-risk\/species-recovery\/orca\" target=\"_blank\">Know the laws<\/a> and <a href=\"http:\/\/bewhalewise.org\" target=\"_blank\">Be Whale Wise<\/a>.",
-        "startDate":"2025-05-27 09:00:00","refresh":"24h"}
+        "startDate":"2025-05-27 09:00:00","refresh":"18h"}
             ],
             "feeds": [
                 {
