@@ -486,7 +486,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/raw.githubusercontent.com\/thelaunchengine\/EarthNC\/refs\/heads\/main\/smaJson_north_america_pnw_v4w.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/EarthNC\/regionsJSON\/master\/smaJson_north_america_pnw_flipped.json"
                 },
                 {
                     "name": "mpa",
