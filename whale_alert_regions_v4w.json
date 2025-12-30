@@ -485,7 +485,7 @@
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_pnw_flipped.json"
                 }
             ],
-           "notification": [
+           "notifications": [
   {
     "name" : "Welcome to Washington!",
     "desc": "Boaters are required by law to stay 1,000 yards from endangered Southern Resident killer whales in Washington waters. <a href='https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/orca'>Know the laws</a> and <a href='http://bewhalewise.org/'>Be Whale Wise</a> around marine mammals.",
