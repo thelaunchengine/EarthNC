@@ -487,10 +487,10 @@
             ],
            "notification": [
   {
-    name: "Welcome to Washington!",
-    desc: "Boaters are required by law to stay 1,000 yards from endangered Southern Resident killer whales in Washington waters. <a href='https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/orca'>Know the laws</a> and <a href='http://bewhalewise.org/'>Be Whale Wise</a> around marine mammals.",
-    startDate: "2025-12-29 00:58:00",
-    refresh: "30d"
+    "name" : "Welcome to Washington!",
+    "desc": "Boaters are required by law to stay 1,000 yards from endangered Southern Resident killer whales in Washington waters. <a href='https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/orca'>Know the laws</a> and <a href='http://bewhalewise.org/'>Be Whale Wise</a> around marine mammals.",
+    "startDate": "2025-12-29 00:58:00",
+    "refresh": "30d"
   }
 ],
             "polygon": [
